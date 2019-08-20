@@ -1,5 +1,6 @@
 1x Abeyance
 1x Adarkar Wastes
+1x Anguished Unmaking
 1x Arcane Sanctum
 1x Bloodstained Mire
 1x Brainstorm
@@ -14,7 +15,6 @@
 1x Darksteel Mutation
 1x Delay
 1x Demonic Tutor
-1x Detention Sphere
 1x Devastation Tide
 1x Dimir Signet
 1x Dispel
@@ -95,6 +95,6 @@
 1x Underworld Connections
 1x Unearth
 1x Urborg, Tomb of Yawgmoth
-1x Utter End
+1x Vindicate
 1x Watery Grave
 1x Windswept Heath
