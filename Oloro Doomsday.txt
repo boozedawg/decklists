@@ -98,3 +98,8 @@
 1x Vindicate
 1x Watery Grave
 1x Windswept Heath
+
+
+Cards considered for being cut:
+Narset's reversal
+Jace, Beleren
