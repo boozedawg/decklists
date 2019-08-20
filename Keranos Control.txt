@@ -4,54 +4,57 @@
 1x As Foretold
 1x Baral's Expertise
 1x Blasphemous Act
-1x Blood Moon
 1x Brainstorm
 1x Bribery
 1x Capsize
 1x Chandra, Awakened Inferno
 1x Chandra, Torch of Defiance
+1x Commit / Memory
+1x Control Magic
 1x Counterflux
+1x Counterspell
 1x Cyclonic Rift
 1x Dack Fayden
 1x Darksteel Citadel
 1x Decree of Annihilation
+1x Desolate Lighthouse
+1x Dig Through Time
 1x Dispel
-1x Dissolve
-1x Drift of Phantasms
-1x Esper Panorama
 1x Evolving Wilds
 1x Exclude
 1x Flame Slash
 1x Grixis Panorama
 1x Halimar Depths
 1x Hour of Devastation
-14x Island (M20)
+12x Island (M20)
 1x Izzet Boilerworks
 1x Izzet Charm
 1x Izzet Guildgate
-1x Izzet Signet
 1x Jace Beleren
-1x Jace's Sanctum
 1x Jace, Architect of Thought
 1x Jace, Unraveler of Secrets
 1x Jokulhaups
 1x Karn, the Great Creator
 1x Kefnet the Mindful
 1x Keranos, God of Storms *CMDR*
-1x Logic Knot
 1x Lonely Sandbar
 1x Mana Leak
-11x Mountain
+1x Memory Lapse
+1x Misdirection
+9x Mountain
+1x Muddle the Mixture
+1x Mycosynth Wellspring
+1x Narset's Reversal
+1x Narset, Parter of Veils
 1x Negate
 1x Obliterate *F*
+1x Opportunity
+1x Peek
 1x Ponder
-1x Pongify
 1x Possibility Storm
 1x Prohibit
-1x Pull from Tomorrow
 1x Pyroblast
-1x Pyroclasm
-1x Ral, Storm Conduit
+1x Quicken
 1x Reality Shift
 1x Red Elemental Blast
 1x Reliquary Tower
@@ -59,19 +62,20 @@
 1x Sarkhan the Masterless
 1x Sensei's Divining Top
 1x Sol Ring
-1x Sower of Temptation
+1x Spelltwine
 1x Steam Vents
-1x Stroke of Genius
 1x Swan Song
 1x Swiftwater Cliffs
 1x Teferi, Mage of Zhalfir
 1x Temple of Epiphany
 1x Temple of the False God
 1x Temporal Mastery
+1x Terramorphic Expanse
 1x Tezzeret's Gambit
 1x Treasure Cruise
 1x Turn
+1x Unwind
 1x Vandalblast
 1x Vendilion Clique
-1x Vivid Creek
+1x Warped Landscape
 1x Young Pyromancer
