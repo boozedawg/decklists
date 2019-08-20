@@ -1,25 +1,22 @@
 1x Abeyance
 1x Adarkar Wastes
 1x Arcane Sanctum
-1x Ashiok, Dream Render
-1x Aven Mindcensor
 1x Bloodstained Mire
-1x Blue Sun's Zenith
 1x Brainstorm
 1x Caves of Koilos
 1x Cephalid Coliseum
 1x City of Brass
 1x Command Tower
 1x Counterspell
+1x Countersquall
 1x Cyclonic Rift
 1x Dark Ritual
 1x Darksteel Mutation
-1x Daze
+1x Delay
 1x Demonic Tutor
 1x Detention Sphere
-1x Dimir Machinations
+1x Devastation Tide
 1x Dimir Signet
-1x Disallow
 1x Dispel
 1x Doomsday
 1x Dovin's Veto
@@ -27,12 +24,12 @@
 1x Duress
 1x Enlightened Tutor
 1x Evolving Wilds
-1x Exotic Orchard
 1x Fact or Fiction
 1x Fetid Pools
 1x Flooded Strand
+1x Flusterstorm
 1x Force of Will
-1x Ghost Quarter
+1x Frantic Search
 1x Gilded Drake
 1x Gitaxian Probe
 1x Glacial Fortress
@@ -45,15 +42,20 @@
 1x Jace Beleren
 1x Jace, the Mind Sculptor *F*
 1x Laboratory Maniac
-1x Lavinia, Azorius Renegade
 1x Lim-Dul's Vault
+1x Logic Knot
 1x Mana Confluence
 1x Mana Leak
 1x Memory Lapse
+1x Mental Misstep
+1x Mind Stone
 1x Misdirection
 1x Muddle the Mixture
 1x Mystical Tutor
+1x Narset's Reversal
+1x Narset, Parter of Veils
 1x Negate
+1x Night's Whisper
 1x Notion Thief
 1x Oloro, Ageless Ascetic *CMDR*
 1x Orim's Chant
@@ -65,24 +67,24 @@
 1x Prairie Stream
 1x Predict
 1x Preordain
-1x Pull from Tomorrow
+1x Prohibit
 1x Reflecting Pool
-1x Render Silent
 1x Rest in Peace
 1x Scalding Tarn
+1x Sign in Blood
 1x Silence
 1x Snow-Covered Island
 1x Snow-Covered Swamp
 1x Sol Ring
 1x Spell Pierce
-1x Sphinx's Revelation
-1x Stony Silence
 1x Street Wraith
 1x Swamp
 1x Swan Song
+1x Swords to Plowshares
 1x Tainted Pact
 1x Talisman of Dominance
 1x Talisman of Progress
+1x Teferi, Mage of Zhalfir
 1x Temple of Deceit
 1x Temple of Enlightenment
 1x Terminus
@@ -96,5 +98,3 @@
 1x Utter End
 1x Watery Grave
 1x Windswept Heath
-1x Wipe Away
-1x Yawgmoth's Will
