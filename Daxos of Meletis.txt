@@ -29,12 +29,10 @@
 1x Fact or Fiction
 1x Fiend Hunter
 1x Fireshrieker
-1x Future Sight
 1x Halimar Depths
 1x Hanweir Militia Captain
-11x Island
+9x Island
 1x Jalira, Master Polymorphist
-1x Kheru Spellsnatcher
 1x Lavinia, Azorius Renegade
 1x Legion's Landing
 1x Lightning Greaves
@@ -43,15 +41,18 @@
 1x Mentor of the Meek
 1x Misdirection
 1x Mother of Runes
+1x Myriad Landscape
 1x Negate
 1x Oblivion Ring
 1x Opal Palace
 10x Plains
 1x Port Town
+1x Prairie Stream
 1x Precinct Captain
 1x Reflector Mage
 1x Render Silent
 1x Riftwing Cloudskate
+1x Rite of Replication
 1x Rogue's Passage
 1x Silverblade Paladin
 1x Simic Manipulator
@@ -71,6 +72,8 @@
 1x Tranquil Cove
 1x Treasure Cruise
 1x Tribute Mage
+1x Trinket Mage
+1x Trophy Mage
 1x Unquestioned Authority
 1x Valorous Stance
 1x Vivid Creek
@@ -78,4 +81,3 @@
 1x Vow of Duty
 1x Whispersilk Cloak
 1x White Sun's Zenith
-1x Wing Shards

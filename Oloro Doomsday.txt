@@ -39,7 +39,6 @@
 1x Imprisoned in the Moon
 1x Irrigated Farmland
 1x Island
-1x Jace Beleren
 1x Jace, the Mind Sculptor *F*
 1x Laboratory Maniac
 1x Lim-Dul's Vault
@@ -64,8 +63,6 @@
 1x Plains
 1x Polluted Delta
 1x Ponder
-1x Prairie Stream
-1x Predict
 1x Preordain
 1x Prohibit
 1x Reflecting Pool
@@ -98,8 +95,6 @@
 1x Vindicate
 1x Watery Grave
 1x Windswept Heath
-
-
-Cards considered for being cut:
-Narset's reversal
-Jace, Beleren
+1x Peek
+1x Quicken
+1x Gush

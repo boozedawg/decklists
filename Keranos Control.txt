@@ -23,6 +23,7 @@
 1x Evolving Wilds
 1x Exclude
 1x Flame Slash
+1x Gitaxian Probe
 1x Grixis Panorama
 1x Halimar Depths
 1x Hour of Devastation
@@ -44,11 +45,11 @@
 9x Mountain
 1x Muddle the Mixture
 1x Mycosynth Wellspring
+1x Myriad Landscape
 1x Narset's Reversal
 1x Narset, Parter of Veils
 1x Negate
 1x Obliterate *F*
-1x Opportunity
 1x Peek
 1x Ponder
 1x Possibility Storm
@@ -56,6 +57,7 @@
 1x Pyroblast
 1x Quicken
 1x Reality Shift
+1x Recurring Insight
 1x Red Elemental Blast
 1x Reliquary Tower
 1x Saheeli, Sublime Artificer
@@ -68,14 +70,12 @@
 1x Swiftwater Cliffs
 1x Teferi, Mage of Zhalfir
 1x Temple of Epiphany
-1x Temple of the False God
 1x Temporal Mastery
 1x Terramorphic Expanse
 1x Tezzeret's Gambit
 1x Treasure Cruise
+1x Trinket Mage
 1x Turn
-1x Unwind
 1x Vandalblast
 1x Vendilion Clique
-1x Warped Landscape
-1x Young Pyromancer
+1x Visions of Beyond
